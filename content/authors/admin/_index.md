@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: MSc in Economics
-   institution: Humboldt Universität
-   year: 2015
+- course: MSc in Economics
+  institution: Humboldt Universität
+  year: 2015
 
 
 # Social/Academic Networking
