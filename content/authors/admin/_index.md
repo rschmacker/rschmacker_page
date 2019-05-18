@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Renke Schmacker
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,27 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Economics
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: DIW Berlin
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student at Free University Berlin and a research associate at the Public Economics department at DIW Berlin.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Public Economics
-- Behavioral Economics
-- Experimental Economics
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-- course: MSc in Economics
-  institution: Humboldt Universität
-  year: 2015
-
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,19 +47,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/r_renke
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=RkqM_lYAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
