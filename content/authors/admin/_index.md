@@ -26,10 +26,10 @@ interests:
 - Experimental Economics
 
 #education:
-#  courses:
-#  - course: MSc in Economics
-#    institution: Humboldt Universität
-#    year: 2015
+  courses:
+  - course: MSc in Economics
+   institution: Humboldt Universität
+   year: 2015
 
 
 # Social/Academic Networking
@@ -61,9 +61,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
 I am a Ph.D. student at Free University Berlin and a research associate at the Public Economics department at DIW Berlin. In fall 2018, I was visiting the Center for Experimental Social Sciences at New York University.
