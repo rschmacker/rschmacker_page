@@ -25,11 +25,11 @@ interests:
 - Behavioral Economics
 - Experimental Economics
 
-education:
-  courses:
-  - course: MSc in Economics
-    institution: Humboldt Universität
-    year: 2015
+#education:
+#  courses:
+#  - course: MSc in Economics
+#    institution: Humboldt Universität
+#    year: 2015
 
 
 # Social/Academic Networking
@@ -42,27 +42,28 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/r_renke
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.de/citations?user=RkqM_lYAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a Ph.D. student at Free University Berlin and a research associate at the Public Economics department at DIW Berlin. In fall 2018, I was visiting the Center for Experimental Social Sciences at New York University.
