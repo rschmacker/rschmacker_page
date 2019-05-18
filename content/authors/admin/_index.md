@@ -25,7 +25,7 @@ interests:
 - Behavioral Economics
 - Experimental Economics
 
-#education:
+education:
   courses:
   - course: MSc in Economics
    institution: Humboldt Universität
