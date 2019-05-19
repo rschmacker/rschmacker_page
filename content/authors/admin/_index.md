@@ -15,10 +15,10 @@ role: PhD Student in Economics
 # Organizations/Affiliations
 organizations:
 - name: DIW Berlin
-  url: ""
+  url: "http://www.diw.de/cv/en/rschmacker"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include public, behavioral and experimental economics.
 
 interests:
 - Public Economics
@@ -65,9 +65,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am a Ph.D. student at Free University Berlin and a research associate at the Public Economics department at DIW Berlin. In fall 2018, I was visiting the Center for Experimental Social Sciences at New York University.
