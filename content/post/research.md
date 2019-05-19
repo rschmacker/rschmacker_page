@@ -1,6 +1,8 @@
-+++
+---
+widget = "pages"
+headless = true
 title = "Research"
-+++
+---
 
 <h3><strong>Published Papers</strong></h3>
 <strong>Social Image Concerns and Welfare Take-Up</strong>
