@@ -9,7 +9,7 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 featured: false
 draft: false
-weight = 50  # Order that this section will appear in.
+# weight = 50  # Order that this section will appear in.
 
 
 # Featured image
