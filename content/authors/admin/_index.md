@@ -44,16 +44,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:rschmacker@diw.de  # For a direct email link, use "mailto:rschmacker [at] diw.de".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/r_renke
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=RkqM_lYAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Renke_Schmacker
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
