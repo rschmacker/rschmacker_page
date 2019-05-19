@@ -25,17 +25,17 @@ interests:
 - Behavioral Economics
 - Experimental Economics
 
-education:
-  courses:
-  - course: MSc in Economics
-    institution: Humboldt Universität
-    year: 2015
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#  courses:
+#  - course: MSc in Economics
+#    institution: Humboldt Universität
+#    year: 2015
+#  - course: BSc in Economics
+#    institution: Leuphana Universität Lüneburg
+#    year: 2012
+#  - course: BSc in Business Psychology
+#    institution: Leuphana Universität Lüneburg
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
