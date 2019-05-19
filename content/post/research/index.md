@@ -1,7 +1,7 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: Research
+subtitle: 
+summary: 
 authors:
 - admin
 tags: []
